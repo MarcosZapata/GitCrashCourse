@@ -5,3 +5,4 @@ followed YT tutorial by Traverse Media
 
 https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
+Getting back to use git & github for my micro-components
